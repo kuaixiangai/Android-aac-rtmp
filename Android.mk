@@ -1,8 +1,7 @@
 # Android.mk for FFmpeg
 #
-# Lei Xiaohua À×Ïöæè
-# leixiaohua1020@126.com
-# http://blog.csdn.net/leixiaohua1020
+# kuaixiang
+# 136062834@qq.com
 # 
 
 LOCAL_PATH := $(call my-dir)
